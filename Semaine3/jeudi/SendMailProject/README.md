@@ -1,7 +1,15 @@
-# Projet Send Mail
+# SendMailProject
   Ce projet consiste à ...
 
-## Participants
+## Participants / Roles
+  
+
+### Les techniques utilisées dans ce projet
+
+* Scrapping
+* API Twitter
+* Gem mail
+* ...
 
 ## Prerequis
 
