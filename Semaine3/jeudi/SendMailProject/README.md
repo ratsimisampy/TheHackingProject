@@ -16,3 +16,7 @@
   
   
 ### Ameliorations possibles
+
+
+### Fonctionnalités du programme :
+![alt text]
